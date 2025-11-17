@@ -1,0 +1,9 @@
+weekly-invest-app/
+│
+├── index.html
+├── style.css
+├── script.js
+├── data/
+│   └── investments.json
+├── README.md
+└── LICENSE
